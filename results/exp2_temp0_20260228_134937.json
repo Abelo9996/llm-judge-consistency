@@ -1,0 +1,2728 @@
+[
+  {
+    "sample_id": "q001",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q002",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q003",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q004",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q005",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q006",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q007",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q008",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q009",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q010",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q011",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q012",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q013",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q014",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q015",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q016",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q017",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q018",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q019",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q020",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q021",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q022",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q023",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q024",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "tie",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "tie",
+        "run_index": 2
+      },
+      {
+        "winner": "tie",
+        "run_index": 3
+      },
+      {
+        "winner": "tie",
+        "run_index": 4
+      },
+      {
+        "winner": "tie",
+        "run_index": 5
+      },
+      {
+        "winner": "tie",
+        "run_index": 6
+      },
+      {
+        "winner": "tie",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "tie",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q025",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q026",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q027",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q028",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q029",
+    "judge_model": "gpt-4o-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q001",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q002",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q003",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q004",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q005",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q006",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q007",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "tie",
+        "run_index": 0
+      },
+      {
+        "winner": "tie",
+        "run_index": 1
+      },
+      {
+        "winner": "tie",
+        "run_index": 2
+      },
+      {
+        "winner": "tie",
+        "run_index": 3
+      },
+      {
+        "winner": "tie",
+        "run_index": 4
+      },
+      {
+        "winner": "tie",
+        "run_index": 5
+      },
+      {
+        "winner": "tie",
+        "run_index": 6
+      },
+      {
+        "winner": "tie",
+        "run_index": 7
+      },
+      {
+        "winner": "tie",
+        "run_index": 8
+      },
+      {
+        "winner": "tie",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q008",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "tie",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q009",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "tie",
+        "run_index": 0
+      },
+      {
+        "winner": "tie",
+        "run_index": 1
+      },
+      {
+        "winner": "tie",
+        "run_index": 2
+      },
+      {
+        "winner": "tie",
+        "run_index": 3
+      },
+      {
+        "winner": "tie",
+        "run_index": 4
+      },
+      {
+        "winner": "tie",
+        "run_index": 5
+      },
+      {
+        "winner": "tie",
+        "run_index": 6
+      },
+      {
+        "winner": "tie",
+        "run_index": 7
+      },
+      {
+        "winner": "tie",
+        "run_index": 8
+      },
+      {
+        "winner": "tie",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q010",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q011",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q012",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q013",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "tie",
+        "run_index": 2
+      },
+      {
+        "winner": "tie",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "tie",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "tie",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q014",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q015",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "tie",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q016",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q017",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q018",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q019",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "tie",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "tie",
+        "run_index": 3
+      },
+      {
+        "winner": "tie",
+        "run_index": 4
+      },
+      {
+        "winner": "tie",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "tie",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q020",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "tie",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "tie",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q021",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q022",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q023",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q024",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q025",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q026",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q027",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q028",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      }
+    ]
+  },
+  {
+    "sample_id": "q029",
+    "judge_model": "gpt-4.1-mini",
+    "temperature": 0,
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      }
+    ]
+  }
+]

@@ -1,0 +1,3482 @@
+[
+  {
+    "sample_id": "q001",
+    "judge_model": "gpt-4o-mini",
+    "prompt_template": "prompt_A",
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      },
+      {
+        "winner": "B",
+        "run_index": 10
+      },
+      {
+        "winner": "B",
+        "run_index": 11
+      },
+      {
+        "winner": "B",
+        "run_index": 12
+      },
+      {
+        "winner": "B",
+        "run_index": 13
+      },
+      {
+        "winner": "B",
+        "run_index": 14
+      },
+      {
+        "winner": "B",
+        "run_index": 15
+      },
+      {
+        "winner": "B",
+        "run_index": 16
+      },
+      {
+        "winner": null,
+        "run_index": 17
+      },
+      {
+        "winner": "B",
+        "run_index": 18
+      },
+      {
+        "winner": "B",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q004",
+    "judge_model": "gpt-4o-mini",
+    "prompt_template": "prompt_A",
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "tie",
+        "run_index": 9
+      },
+      {
+        "winner": "B",
+        "run_index": 10
+      },
+      {
+        "winner": "A",
+        "run_index": 11
+      },
+      {
+        "winner": "B",
+        "run_index": 12
+      },
+      {
+        "winner": "B",
+        "run_index": 13
+      },
+      {
+        "winner": "B",
+        "run_index": 14
+      },
+      {
+        "winner": "B",
+        "run_index": 15
+      },
+      {
+        "winner": "A",
+        "run_index": 16
+      },
+      {
+        "winner": "B",
+        "run_index": 17
+      },
+      {
+        "winner": "B",
+        "run_index": 18
+      },
+      {
+        "winner": "B",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q007",
+    "judge_model": "gpt-4o-mini",
+    "prompt_template": "prompt_A",
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": "A",
+        "run_index": 11
+      },
+      {
+        "winner": "tie",
+        "run_index": 12
+      },
+      {
+        "winner": "A",
+        "run_index": 13
+      },
+      {
+        "winner": "A",
+        "run_index": 14
+      },
+      {
+        "winner": "A",
+        "run_index": 15
+      },
+      {
+        "winner": "A",
+        "run_index": 16
+      },
+      {
+        "winner": "A",
+        "run_index": 17
+      },
+      {
+        "winner": "tie",
+        "run_index": 18
+      },
+      {
+        "winner": "A",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q010",
+    "judge_model": "gpt-4o-mini",
+    "prompt_template": "prompt_A",
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": "A",
+        "run_index": 11
+      },
+      {
+        "winner": "A",
+        "run_index": 12
+      },
+      {
+        "winner": "A",
+        "run_index": 13
+      },
+      {
+        "winner": "A",
+        "run_index": 14
+      },
+      {
+        "winner": "A",
+        "run_index": 15
+      },
+      {
+        "winner": "A",
+        "run_index": 16
+      },
+      {
+        "winner": "A",
+        "run_index": 17
+      },
+      {
+        "winner": "A",
+        "run_index": 18
+      },
+      {
+        "winner": "A",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q013",
+    "judge_model": "gpt-4o-mini",
+    "prompt_template": "prompt_A",
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": "A",
+        "run_index": 11
+      },
+      {
+        "winner": "A",
+        "run_index": 12
+      },
+      {
+        "winner": "tie",
+        "run_index": 13
+      },
+      {
+        "winner": "A",
+        "run_index": 14
+      },
+      {
+        "winner": "A",
+        "run_index": 15
+      },
+      {
+        "winner": "A",
+        "run_index": 16
+      },
+      {
+        "winner": "A",
+        "run_index": 17
+      },
+      {
+        "winner": "A",
+        "run_index": 18
+      },
+      {
+        "winner": "A",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q016",
+    "judge_model": "gpt-4o-mini",
+    "prompt_template": "prompt_A",
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": "A",
+        "run_index": 11
+      },
+      {
+        "winner": "A",
+        "run_index": 12
+      },
+      {
+        "winner": "A",
+        "run_index": 13
+      },
+      {
+        "winner": "A",
+        "run_index": 14
+      },
+      {
+        "winner": "A",
+        "run_index": 15
+      },
+      {
+        "winner": "A",
+        "run_index": 16
+      },
+      {
+        "winner": "A",
+        "run_index": 17
+      },
+      {
+        "winner": "A",
+        "run_index": 18
+      },
+      {
+        "winner": "A",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q019",
+    "judge_model": "gpt-4o-mini",
+    "prompt_template": "prompt_A",
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      },
+      {
+        "winner": "B",
+        "run_index": 10
+      },
+      {
+        "winner": "B",
+        "run_index": 11
+      },
+      {
+        "winner": "B",
+        "run_index": 12
+      },
+      {
+        "winner": "B",
+        "run_index": 13
+      },
+      {
+        "winner": "B",
+        "run_index": 14
+      },
+      {
+        "winner": "B",
+        "run_index": 15
+      },
+      {
+        "winner": "B",
+        "run_index": 16
+      },
+      {
+        "winner": "A",
+        "run_index": 17
+      },
+      {
+        "winner": "B",
+        "run_index": 18
+      },
+      {
+        "winner": "B",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q022",
+    "judge_model": "gpt-4o-mini",
+    "prompt_template": "prompt_A",
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": "A",
+        "run_index": 11
+      },
+      {
+        "winner": "A",
+        "run_index": 12
+      },
+      {
+        "winner": "A",
+        "run_index": 13
+      },
+      {
+        "winner": "A",
+        "run_index": 14
+      },
+      {
+        "winner": "A",
+        "run_index": 15
+      },
+      {
+        "winner": "A",
+        "run_index": 16
+      },
+      {
+        "winner": "A",
+        "run_index": 17
+      },
+      {
+        "winner": "A",
+        "run_index": 18
+      },
+      {
+        "winner": "A",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q025",
+    "judge_model": "gpt-4o-mini",
+    "prompt_template": "prompt_A",
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": "A",
+        "run_index": 11
+      },
+      {
+        "winner": "A",
+        "run_index": 12
+      },
+      {
+        "winner": "A",
+        "run_index": 13
+      },
+      {
+        "winner": "A",
+        "run_index": 14
+      },
+      {
+        "winner": "A",
+        "run_index": 15
+      },
+      {
+        "winner": "A",
+        "run_index": 16
+      },
+      {
+        "winner": "A",
+        "run_index": 17
+      },
+      {
+        "winner": "A",
+        "run_index": 18
+      },
+      {
+        "winner": "A",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q028",
+    "judge_model": "gpt-4o-mini",
+    "prompt_template": "prompt_A",
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": "A",
+        "run_index": 11
+      },
+      {
+        "winner": "A",
+        "run_index": 12
+      },
+      {
+        "winner": "A",
+        "run_index": 13
+      },
+      {
+        "winner": "A",
+        "run_index": 14
+      },
+      {
+        "winner": "A",
+        "run_index": 15
+      },
+      {
+        "winner": "A",
+        "run_index": 16
+      },
+      {
+        "winner": "A",
+        "run_index": 17
+      },
+      {
+        "winner": "A",
+        "run_index": 18
+      },
+      {
+        "winner": "A",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q001",
+    "judge_model": "gpt-4.1-mini",
+    "prompt_template": "prompt_A",
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      },
+      {
+        "winner": "B",
+        "run_index": 10
+      },
+      {
+        "winner": "B",
+        "run_index": 11
+      },
+      {
+        "winner": "B",
+        "run_index": 12
+      },
+      {
+        "winner": "B",
+        "run_index": 13
+      },
+      {
+        "winner": "B",
+        "run_index": 14
+      },
+      {
+        "winner": "B",
+        "run_index": 15
+      },
+      {
+        "winner": "B",
+        "run_index": 16
+      },
+      {
+        "winner": "B",
+        "run_index": 17
+      },
+      {
+        "winner": "B",
+        "run_index": 18
+      },
+      {
+        "winner": "B",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q004",
+    "judge_model": "gpt-4.1-mini",
+    "prompt_template": "prompt_A",
+    "pairwise": [
+      {
+        "winner": "tie",
+        "run_index": 0
+      },
+      {
+        "winner": "tie",
+        "run_index": 1
+      },
+      {
+        "winner": "tie",
+        "run_index": 2
+      },
+      {
+        "winner": "tie",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "tie",
+        "run_index": 7
+      },
+      {
+        "winner": "tie",
+        "run_index": 8
+      },
+      {
+        "winner": "tie",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": "tie",
+        "run_index": 11
+      },
+      {
+        "winner": "B",
+        "run_index": 12
+      },
+      {
+        "winner": "A",
+        "run_index": 13
+      },
+      {
+        "winner": "tie",
+        "run_index": 14
+      },
+      {
+        "winner": "A",
+        "run_index": 15
+      },
+      {
+        "winner": "B",
+        "run_index": 16
+      },
+      {
+        "winner": "tie",
+        "run_index": 17
+      },
+      {
+        "winner": "tie",
+        "run_index": 18
+      },
+      {
+        "winner": "A",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q007",
+    "judge_model": "gpt-4.1-mini",
+    "prompt_template": "prompt_A",
+    "pairwise": [
+      {
+        "winner": "tie",
+        "run_index": 0
+      },
+      {
+        "winner": "tie",
+        "run_index": 1
+      },
+      {
+        "winner": "tie",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "tie",
+        "run_index": 5
+      },
+      {
+        "winner": "tie",
+        "run_index": 6
+      },
+      {
+        "winner": "tie",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "tie",
+        "run_index": 9
+      },
+      {
+        "winner": "tie",
+        "run_index": 10
+      },
+      {
+        "winner": "tie",
+        "run_index": 11
+      },
+      {
+        "winner": "tie",
+        "run_index": 12
+      },
+      {
+        "winner": "tie",
+        "run_index": 13
+      },
+      {
+        "winner": "B",
+        "run_index": 14
+      },
+      {
+        "winner": "tie",
+        "run_index": 15
+      },
+      {
+        "winner": "tie",
+        "run_index": 16
+      },
+      {
+        "winner": "tie",
+        "run_index": 17
+      },
+      {
+        "winner": "tie",
+        "run_index": 18
+      },
+      {
+        "winner": "tie",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q010",
+    "judge_model": "gpt-4.1-mini",
+    "prompt_template": "prompt_A",
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": "A",
+        "run_index": 11
+      },
+      {
+        "winner": "A",
+        "run_index": 12
+      },
+      {
+        "winner": "A",
+        "run_index": 13
+      },
+      {
+        "winner": "A",
+        "run_index": 14
+      },
+      {
+        "winner": "A",
+        "run_index": 15
+      },
+      {
+        "winner": "A",
+        "run_index": 16
+      },
+      {
+        "winner": "A",
+        "run_index": 17
+      },
+      {
+        "winner": "A",
+        "run_index": 18
+      },
+      {
+        "winner": "A",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q013",
+    "judge_model": "gpt-4.1-mini",
+    "prompt_template": "prompt_A",
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "tie",
+        "run_index": 4
+      },
+      {
+        "winner": "tie",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": "A",
+        "run_index": 11
+      },
+      {
+        "winner": "A",
+        "run_index": 12
+      },
+      {
+        "winner": "A",
+        "run_index": 13
+      },
+      {
+        "winner": "tie",
+        "run_index": 14
+      },
+      {
+        "winner": "A",
+        "run_index": 15
+      },
+      {
+        "winner": "A",
+        "run_index": 16
+      },
+      {
+        "winner": "A",
+        "run_index": 17
+      },
+      {
+        "winner": "A",
+        "run_index": 18
+      },
+      {
+        "winner": "A",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q016",
+    "judge_model": "gpt-4.1-mini",
+    "prompt_template": "prompt_A",
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": "A",
+        "run_index": 11
+      },
+      {
+        "winner": "A",
+        "run_index": 12
+      },
+      {
+        "winner": "A",
+        "run_index": 13
+      },
+      {
+        "winner": "A",
+        "run_index": 14
+      },
+      {
+        "winner": "A",
+        "run_index": 15
+      },
+      {
+        "winner": "A",
+        "run_index": 16
+      },
+      {
+        "winner": "A",
+        "run_index": 17
+      },
+      {
+        "winner": "A",
+        "run_index": 18
+      },
+      {
+        "winner": "A",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q019",
+    "judge_model": "gpt-4.1-mini",
+    "prompt_template": "prompt_A",
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "tie",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "tie",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": "B",
+        "run_index": 11
+      },
+      {
+        "winner": "B",
+        "run_index": 12
+      },
+      {
+        "winner": "tie",
+        "run_index": 13
+      },
+      {
+        "winner": "tie",
+        "run_index": 14
+      },
+      {
+        "winner": "B",
+        "run_index": 15
+      },
+      {
+        "winner": "B",
+        "run_index": 16
+      },
+      {
+        "winner": "B",
+        "run_index": 17
+      },
+      {
+        "winner": "B",
+        "run_index": 18
+      },
+      {
+        "winner": "B",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q022",
+    "judge_model": "gpt-4.1-mini",
+    "prompt_template": "prompt_A",
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": "B",
+        "run_index": 11
+      },
+      {
+        "winner": "A",
+        "run_index": 12
+      },
+      {
+        "winner": "B",
+        "run_index": 13
+      },
+      {
+        "winner": "B",
+        "run_index": 14
+      },
+      {
+        "winner": "A",
+        "run_index": 15
+      },
+      {
+        "winner": "A",
+        "run_index": 16
+      },
+      {
+        "winner": "A",
+        "run_index": 17
+      },
+      {
+        "winner": "B",
+        "run_index": 18
+      },
+      {
+        "winner": "A",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q025",
+    "judge_model": "gpt-4.1-mini",
+    "prompt_template": "prompt_A",
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": "A",
+        "run_index": 11
+      },
+      {
+        "winner": "A",
+        "run_index": 12
+      },
+      {
+        "winner": "A",
+        "run_index": 13
+      },
+      {
+        "winner": "A",
+        "run_index": 14
+      },
+      {
+        "winner": "A",
+        "run_index": 15
+      },
+      {
+        "winner": "A",
+        "run_index": 16
+      },
+      {
+        "winner": "A",
+        "run_index": 17
+      },
+      {
+        "winner": "A",
+        "run_index": 18
+      },
+      {
+        "winner": "A",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q028",
+    "judge_model": "gpt-4.1-mini",
+    "prompt_template": "prompt_A",
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      },
+      {
+        "winner": "B",
+        "run_index": 10
+      },
+      {
+        "winner": "A",
+        "run_index": 11
+      },
+      {
+        "winner": "A",
+        "run_index": 12
+      },
+      {
+        "winner": "B",
+        "run_index": 13
+      },
+      {
+        "winner": "B",
+        "run_index": 14
+      },
+      {
+        "winner": "B",
+        "run_index": 15
+      },
+      {
+        "winner": "B",
+        "run_index": 16
+      },
+      {
+        "winner": "B",
+        "run_index": 17
+      },
+      {
+        "winner": "B",
+        "run_index": 18
+      },
+      {
+        "winner": "B",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q001",
+    "judge_model": "gpt-4o-mini",
+    "prompt_template": "prompt_B",
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      },
+      {
+        "winner": "B",
+        "run_index": 10
+      },
+      {
+        "winner": "A",
+        "run_index": 11
+      },
+      {
+        "winner": "B",
+        "run_index": 12
+      },
+      {
+        "winner": "B",
+        "run_index": 13
+      },
+      {
+        "winner": "B",
+        "run_index": 14
+      },
+      {
+        "winner": null,
+        "run_index": 15
+      },
+      {
+        "winner": "B",
+        "run_index": 16
+      },
+      {
+        "winner": "B",
+        "run_index": 17
+      },
+      {
+        "winner": "B",
+        "run_index": 18
+      },
+      {
+        "winner": "B",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q004",
+    "judge_model": "gpt-4o-mini",
+    "prompt_template": "prompt_B",
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "tie",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "tie",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "tie",
+        "run_index": 6
+      },
+      {
+        "winner": "tie",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "tie",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": "B",
+        "run_index": 11
+      },
+      {
+        "winner": "A",
+        "run_index": 12
+      },
+      {
+        "winner": "tie",
+        "run_index": 13
+      },
+      {
+        "winner": "tie",
+        "run_index": 14
+      },
+      {
+        "winner": "tie",
+        "run_index": 15
+      },
+      {
+        "winner": "B",
+        "run_index": 16
+      },
+      {
+        "winner": "B",
+        "run_index": 17
+      },
+      {
+        "winner": "A",
+        "run_index": 18
+      },
+      {
+        "winner": "tie",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q007",
+    "judge_model": "gpt-4o-mini",
+    "prompt_template": "prompt_B",
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "tie",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "tie",
+        "run_index": 3
+      },
+      {
+        "winner": "tie",
+        "run_index": 4
+      },
+      {
+        "winner": "tie",
+        "run_index": 5
+      },
+      {
+        "winner": "tie",
+        "run_index": 6
+      },
+      {
+        "winner": "tie",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "tie",
+        "run_index": 9
+      },
+      {
+        "winner": "B",
+        "run_index": 10
+      },
+      {
+        "winner": "A",
+        "run_index": 11
+      },
+      {
+        "winner": "tie",
+        "run_index": 12
+      },
+      {
+        "winner": "tie",
+        "run_index": 13
+      },
+      {
+        "winner": "A",
+        "run_index": 14
+      },
+      {
+        "winner": "tie",
+        "run_index": 15
+      },
+      {
+        "winner": "tie",
+        "run_index": 16
+      },
+      {
+        "winner": "tie",
+        "run_index": 17
+      },
+      {
+        "winner": "A",
+        "run_index": 18
+      },
+      {
+        "winner": "tie",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q010",
+    "judge_model": "gpt-4o-mini",
+    "prompt_template": "prompt_B",
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": "A",
+        "run_index": 11
+      },
+      {
+        "winner": "A",
+        "run_index": 12
+      },
+      {
+        "winner": "A",
+        "run_index": 13
+      },
+      {
+        "winner": "A",
+        "run_index": 14
+      },
+      {
+        "winner": "A",
+        "run_index": 15
+      },
+      {
+        "winner": "A",
+        "run_index": 16
+      },
+      {
+        "winner": "A",
+        "run_index": 17
+      },
+      {
+        "winner": "A",
+        "run_index": 18
+      },
+      {
+        "winner": "A",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q013",
+    "judge_model": "gpt-4o-mini",
+    "prompt_template": "prompt_B",
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "tie",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "tie",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "tie",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      },
+      {
+        "winner": "tie",
+        "run_index": 10
+      },
+      {
+        "winner": "A",
+        "run_index": 11
+      },
+      {
+        "winner": "A",
+        "run_index": 12
+      },
+      {
+        "winner": "tie",
+        "run_index": 13
+      },
+      {
+        "winner": "A",
+        "run_index": 14
+      },
+      {
+        "winner": "tie",
+        "run_index": 15
+      },
+      {
+        "winner": "A",
+        "run_index": 16
+      },
+      {
+        "winner": "tie",
+        "run_index": 17
+      },
+      {
+        "winner": "A",
+        "run_index": 18
+      },
+      {
+        "winner": "tie",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q016",
+    "judge_model": "gpt-4o-mini",
+    "prompt_template": "prompt_B",
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": "A",
+        "run_index": 11
+      },
+      {
+        "winner": "A",
+        "run_index": 12
+      },
+      {
+        "winner": "A",
+        "run_index": 13
+      },
+      {
+        "winner": "A",
+        "run_index": 14
+      },
+      {
+        "winner": "A",
+        "run_index": 15
+      },
+      {
+        "winner": "A",
+        "run_index": 16
+      },
+      {
+        "winner": "A",
+        "run_index": 17
+      },
+      {
+        "winner": "A",
+        "run_index": 18
+      },
+      {
+        "winner": "A",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q019",
+    "judge_model": "gpt-4o-mini",
+    "prompt_template": "prompt_B",
+    "pairwise": [
+      {
+        "winner": "tie",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "tie",
+        "run_index": 7
+      },
+      {
+        "winner": "tie",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      },
+      {
+        "winner": "tie",
+        "run_index": 10
+      },
+      {
+        "winner": "B",
+        "run_index": 11
+      },
+      {
+        "winner": "tie",
+        "run_index": 12
+      },
+      {
+        "winner": "B",
+        "run_index": 13
+      },
+      {
+        "winner": "tie",
+        "run_index": 14
+      },
+      {
+        "winner": "B",
+        "run_index": 15
+      },
+      {
+        "winner": "B",
+        "run_index": 16
+      },
+      {
+        "winner": "B",
+        "run_index": 17
+      },
+      {
+        "winner": "B",
+        "run_index": 18
+      },
+      {
+        "winner": "B",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q022",
+    "judge_model": "gpt-4o-mini",
+    "prompt_template": "prompt_B",
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": "tie",
+        "run_index": 11
+      },
+      {
+        "winner": "A",
+        "run_index": 12
+      },
+      {
+        "winner": "A",
+        "run_index": 13
+      },
+      {
+        "winner": "A",
+        "run_index": 14
+      },
+      {
+        "winner": "A",
+        "run_index": 15
+      },
+      {
+        "winner": "A",
+        "run_index": 16
+      },
+      {
+        "winner": "A",
+        "run_index": 17
+      },
+      {
+        "winner": "A",
+        "run_index": 18
+      },
+      {
+        "winner": "A",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q025",
+    "judge_model": "gpt-4o-mini",
+    "prompt_template": "prompt_B",
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": "A",
+        "run_index": 11
+      },
+      {
+        "winner": "A",
+        "run_index": 12
+      },
+      {
+        "winner": "A",
+        "run_index": 13
+      },
+      {
+        "winner": "A",
+        "run_index": 14
+      },
+      {
+        "winner": "A",
+        "run_index": 15
+      },
+      {
+        "winner": "A",
+        "run_index": 16
+      },
+      {
+        "winner": "A",
+        "run_index": 17
+      },
+      {
+        "winner": "A",
+        "run_index": 18
+      },
+      {
+        "winner": "A",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q028",
+    "judge_model": "gpt-4o-mini",
+    "prompt_template": "prompt_B",
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": "A",
+        "run_index": 11
+      },
+      {
+        "winner": "A",
+        "run_index": 12
+      },
+      {
+        "winner": "A",
+        "run_index": 13
+      },
+      {
+        "winner": "A",
+        "run_index": 14
+      },
+      {
+        "winner": "A",
+        "run_index": 15
+      },
+      {
+        "winner": "A",
+        "run_index": 16
+      },
+      {
+        "winner": "A",
+        "run_index": 17
+      },
+      {
+        "winner": "A",
+        "run_index": 18
+      },
+      {
+        "winner": "A",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q001",
+    "judge_model": "gpt-4.1-mini",
+    "prompt_template": "prompt_B",
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      },
+      {
+        "winner": "B",
+        "run_index": 10
+      },
+      {
+        "winner": "B",
+        "run_index": 11
+      },
+      {
+        "winner": "B",
+        "run_index": 12
+      },
+      {
+        "winner": "B",
+        "run_index": 13
+      },
+      {
+        "winner": "B",
+        "run_index": 14
+      },
+      {
+        "winner": "B",
+        "run_index": 15
+      },
+      {
+        "winner": "B",
+        "run_index": 16
+      },
+      {
+        "winner": "B",
+        "run_index": 17
+      },
+      {
+        "winner": "B",
+        "run_index": 18
+      },
+      {
+        "winner": "B",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q004",
+    "judge_model": "gpt-4.1-mini",
+    "prompt_template": "prompt_B",
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "tie",
+        "run_index": 2
+      },
+      {
+        "winner": "tie",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "tie",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "tie",
+        "run_index": 9
+      },
+      {
+        "winner": "tie",
+        "run_index": 10
+      },
+      {
+        "winner": "tie",
+        "run_index": 11
+      },
+      {
+        "winner": "B",
+        "run_index": 12
+      },
+      {
+        "winner": "B",
+        "run_index": 13
+      },
+      {
+        "winner": "tie",
+        "run_index": 14
+      },
+      {
+        "winner": "tie",
+        "run_index": 15
+      },
+      {
+        "winner": "A",
+        "run_index": 16
+      },
+      {
+        "winner": "B",
+        "run_index": 17
+      },
+      {
+        "winner": "tie",
+        "run_index": 18
+      },
+      {
+        "winner": "B",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q007",
+    "judge_model": "gpt-4.1-mini",
+    "prompt_template": "prompt_B",
+    "pairwise": [
+      {
+        "winner": "tie",
+        "run_index": 0
+      },
+      {
+        "winner": "tie",
+        "run_index": 1
+      },
+      {
+        "winner": "tie",
+        "run_index": 2
+      },
+      {
+        "winner": "tie",
+        "run_index": 3
+      },
+      {
+        "winner": "tie",
+        "run_index": 4
+      },
+      {
+        "winner": "tie",
+        "run_index": 5
+      },
+      {
+        "winner": "tie",
+        "run_index": 6
+      },
+      {
+        "winner": "tie",
+        "run_index": 7
+      },
+      {
+        "winner": "tie",
+        "run_index": 8
+      },
+      {
+        "winner": "tie",
+        "run_index": 9
+      },
+      {
+        "winner": "B",
+        "run_index": 10
+      },
+      {
+        "winner": "tie",
+        "run_index": 11
+      },
+      {
+        "winner": "tie",
+        "run_index": 12
+      },
+      {
+        "winner": "tie",
+        "run_index": 13
+      },
+      {
+        "winner": "B",
+        "run_index": 14
+      },
+      {
+        "winner": "tie",
+        "run_index": 15
+      },
+      {
+        "winner": "tie",
+        "run_index": 16
+      },
+      {
+        "winner": "tie",
+        "run_index": 17
+      },
+      {
+        "winner": "tie",
+        "run_index": 18
+      },
+      {
+        "winner": "tie",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q010",
+    "judge_model": "gpt-4.1-mini",
+    "prompt_template": "prompt_B",
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": null,
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": null,
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": null,
+        "run_index": 6
+      },
+      {
+        "winner": null,
+        "run_index": 7
+      },
+      {
+        "winner": null,
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": null,
+        "run_index": 11
+      },
+      {
+        "winner": "A",
+        "run_index": 12
+      },
+      {
+        "winner": null,
+        "run_index": 13
+      },
+      {
+        "winner": null,
+        "run_index": 14
+      },
+      {
+        "winner": null,
+        "run_index": 15
+      },
+      {
+        "winner": null,
+        "run_index": 16
+      },
+      {
+        "winner": "A",
+        "run_index": 17
+      },
+      {
+        "winner": null,
+        "run_index": 18
+      },
+      {
+        "winner": "A",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q013",
+    "judge_model": "gpt-4.1-mini",
+    "prompt_template": "prompt_B",
+    "pairwise": [
+      {
+        "winner": "tie",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "tie",
+        "run_index": 2
+      },
+      {
+        "winner": "tie",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": "A",
+        "run_index": 6
+      },
+      {
+        "winner": "A",
+        "run_index": 7
+      },
+      {
+        "winner": "tie",
+        "run_index": 8
+      },
+      {
+        "winner": "tie",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": "tie",
+        "run_index": 11
+      },
+      {
+        "winner": "tie",
+        "run_index": 12
+      },
+      {
+        "winner": "A",
+        "run_index": 13
+      },
+      {
+        "winner": "A",
+        "run_index": 14
+      },
+      {
+        "winner": "tie",
+        "run_index": 15
+      },
+      {
+        "winner": "tie",
+        "run_index": 16
+      },
+      {
+        "winner": "A",
+        "run_index": 17
+      },
+      {
+        "winner": "A",
+        "run_index": 18
+      },
+      {
+        "winner": "tie",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q016",
+    "judge_model": "gpt-4.1-mini",
+    "prompt_template": "prompt_B",
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": null,
+        "run_index": 1
+      },
+      {
+        "winner": null,
+        "run_index": 2
+      },
+      {
+        "winner": null,
+        "run_index": 3
+      },
+      {
+        "winner": null,
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": null,
+        "run_index": 6
+      },
+      {
+        "winner": null,
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      },
+      {
+        "winner": null,
+        "run_index": 10
+      },
+      {
+        "winner": null,
+        "run_index": 11
+      },
+      {
+        "winner": null,
+        "run_index": 12
+      },
+      {
+        "winner": "A",
+        "run_index": 13
+      },
+      {
+        "winner": "A",
+        "run_index": 14
+      },
+      {
+        "winner": null,
+        "run_index": 15
+      },
+      {
+        "winner": null,
+        "run_index": 16
+      },
+      {
+        "winner": null,
+        "run_index": 17
+      },
+      {
+        "winner": "A",
+        "run_index": 18
+      },
+      {
+        "winner": null,
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q019",
+    "judge_model": "gpt-4.1-mini",
+    "prompt_template": "prompt_B",
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": "B",
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": "B",
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      },
+      {
+        "winner": "B",
+        "run_index": 10
+      },
+      {
+        "winner": "B",
+        "run_index": 11
+      },
+      {
+        "winner": "B",
+        "run_index": 12
+      },
+      {
+        "winner": "B",
+        "run_index": 13
+      },
+      {
+        "winner": "B",
+        "run_index": 14
+      },
+      {
+        "winner": "B",
+        "run_index": 15
+      },
+      {
+        "winner": "B",
+        "run_index": 16
+      },
+      {
+        "winner": "B",
+        "run_index": 17
+      },
+      {
+        "winner": "B",
+        "run_index": 18
+      },
+      {
+        "winner": "B",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q022",
+    "judge_model": "gpt-4.1-mini",
+    "prompt_template": "prompt_B",
+    "pairwise": [
+      {
+        "winner": "B",
+        "run_index": 0
+      },
+      {
+        "winner": "B",
+        "run_index": 1
+      },
+      {
+        "winner": "B",
+        "run_index": 2
+      },
+      {
+        "winner": "B",
+        "run_index": 3
+      },
+      {
+        "winner": null,
+        "run_index": 4
+      },
+      {
+        "winner": "B",
+        "run_index": 5
+      },
+      {
+        "winner": null,
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "B",
+        "run_index": 8
+      },
+      {
+        "winner": "B",
+        "run_index": 9
+      },
+      {
+        "winner": "B",
+        "run_index": 10
+      },
+      {
+        "winner": "B",
+        "run_index": 11
+      },
+      {
+        "winner": null,
+        "run_index": 12
+      },
+      {
+        "winner": "A",
+        "run_index": 13
+      },
+      {
+        "winner": "B",
+        "run_index": 14
+      },
+      {
+        "winner": "B",
+        "run_index": 15
+      },
+      {
+        "winner": "B",
+        "run_index": 16
+      },
+      {
+        "winner": "B",
+        "run_index": 17
+      },
+      {
+        "winner": "B",
+        "run_index": 18
+      },
+      {
+        "winner": "A",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q025",
+    "judge_model": "gpt-4.1-mini",
+    "prompt_template": "prompt_B",
+    "pairwise": [
+      {
+        "winner": "A",
+        "run_index": 0
+      },
+      {
+        "winner": "A",
+        "run_index": 1
+      },
+      {
+        "winner": "A",
+        "run_index": 2
+      },
+      {
+        "winner": "A",
+        "run_index": 3
+      },
+      {
+        "winner": "A",
+        "run_index": 4
+      },
+      {
+        "winner": "A",
+        "run_index": 5
+      },
+      {
+        "winner": null,
+        "run_index": 6
+      },
+      {
+        "winner": "B",
+        "run_index": 7
+      },
+      {
+        "winner": "A",
+        "run_index": 8
+      },
+      {
+        "winner": "A",
+        "run_index": 9
+      },
+      {
+        "winner": "A",
+        "run_index": 10
+      },
+      {
+        "winner": "A",
+        "run_index": 11
+      },
+      {
+        "winner": "A",
+        "run_index": 12
+      },
+      {
+        "winner": "A",
+        "run_index": 13
+      },
+      {
+        "winner": "A",
+        "run_index": 14
+      },
+      {
+        "winner": "A",
+        "run_index": 15
+      },
+      {
+        "winner": "A",
+        "run_index": 16
+      },
+      {
+        "winner": "A",
+        "run_index": 17
+      },
+      {
+        "winner": "A",
+        "run_index": 18
+      },
+      {
+        "winner": "A",
+        "run_index": 19
+      }
+    ]
+  },
+  {
+    "sample_id": "q028",
+    "judge_model": "gpt-4.1-mini",
+    "prompt_template": "prompt_B",
+    "pairwise": [
+      {
+        "winner": null,
+        "run_index": 0
+      },
+      {
+        "winner": null,
+        "run_index": 1
+      },
+      {
+        "winner": null,
+        "run_index": 2
+      },
+      {
+        "winner": null,
+        "run_index": 3
+      },
+      {
+        "winner": null,
+        "run_index": 4
+      },
+      {
+        "winner": null,
+        "run_index": 5
+      },
+      {
+        "winner": null,
+        "run_index": 6
+      },
+      {
+        "winner": null,
+        "run_index": 7
+      },
+      {
+        "winner": null,
+        "run_index": 8
+      },
+      {
+        "winner": null,
+        "run_index": 9
+      },
+      {
+        "winner": null,
+        "run_index": 10
+      },
+      {
+        "winner": null,
+        "run_index": 11
+      },
+      {
+        "winner": null,
+        "run_index": 12
+      },
+      {
+        "winner": null,
+        "run_index": 13
+      },
+      {
+        "winner": null,
+        "run_index": 14
+      },
+      {
+        "winner": null,
+        "run_index": 15
+      },
+      {
+        "winner": "B",
+        "run_index": 16
+      },
+      {
+        "winner": "B",
+        "run_index": 17
+      },
+      {
+        "winner": null,
+        "run_index": 18
+      },
+      {
+        "winner": null,
+        "run_index": 19
+      }
+    ]
+  }
+]
