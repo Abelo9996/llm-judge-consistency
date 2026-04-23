@@ -1,41 +1,46 @@
-# Main experiment configuration
+# Main experiment configuration — reflects what was actually run
 experiment:
   name: "llm-judge-consistency-v1"
-  description: "Measuring scoring consistency and bias in LLM-based evaluation"
+  description: "Measuring intra-judge consistency and bias in LLM-based evaluation"
 
-# Evaluation datasets
+# Evaluation dataset
 data:
-  mt_bench_judgments: "data/mt_bench_pairs.json"    # 100 response pairs
-  alpacaeval_samples: "data/alpacaeval_pairs.json"  # 100 response pairs
+  eval_pairs: "data/eval_pairs.json"   # 29 response pairs, 10 categories
+  response_a_model: "gpt-4o-mini"
+  response_b_model: "gpt-4o"
 
-# Experiment 1: Intra-judge consistency
+# Experiment 1: Intra-judge consistency (main experiment)
 exp1_intra_judge:
   judges: ["gpt-4o-mini", "gpt-4.1-mini"]
   repeats: 50
-  eval_formats: ["pairwise", "pointwise", "reference"]
-  temperature: 1.0  # default, measuring natural variance
-  samples: 100
+  eval_formats: ["pairwise", "pointwise"]
+  temperature: 1.0
+  samples: 29  # all eval_pairs
 
-# Experiment 2: Cross-judge agreement
-exp2_cross_judge:
+# Experiment 2: Temperature ablation
+exp2_temperature:
   judges: ["gpt-4o-mini", "gpt-4.1-mini"]
-  repeats: 10  # fewer needed, comparing across judges
+  repeats: 10
   eval_format: "pairwise"
-  samples: 100
+  temperature: 0.0
+  samples: 29  # all eval_pairs
 
-# Experiment 3: Bias × consistency interaction
-exp3_bias:
+# Experiment 3: Prompt template sensitivity
+exp3_prompt_sensitivity:
   judges: ["gpt-4o-mini", "gpt-4.1-mini"]
-  repeats: 30
-  bias_conditions:
-    - "position_swap"      # swap A/B order
-    - "verbosity_augment"  # pad responses with filler
-    - "self_preference"    # judge evaluates own model's outputs
-  samples: 50
+  repeats: 20
+  eval_format: "pairwise"
+  temperature: 1.0
+  prompt_templates: ["prompt_A", "prompt_B"]
+  samples: 10  # one per category
 
-# Experiment 4: Evaluation format sensitivity
-exp4_format:
-  judges: ["gpt-4o-mini", "gpt-4.1-mini"]
-  repeats: 30
-  eval_formats: ["pointwise_1to10", "pointwise_1to5", "pairwise", "pairwise_with_tie", "reference_based"]
-  samples: 50
+# --- Planned but not yet run ---
+# exp4_additional_judges:
+#   judges: ["llama-3-70b", "claude-haiku"]
+#   Expanding to non-OpenAI judges is the primary future work direction.
+#
+# exp5_scale:
+#   samples: 100  # scaling from 29 to 100 questions
+#
+# exp6_verbosity_bias:
+#   Controlled verbosity augmentation experiment
