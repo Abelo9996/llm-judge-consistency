@@ -182,7 +182,7 @@ Table~\ref{tab:summary} presents aggregate consistency statistics. Both judges e
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=\linewidth]{figures/fig1_flip_rates.pdf}
+    \includegraphics[width=\linewidth]{fig1_flip_rates.pdf}
     \caption{Pairwise preference flip rates across all 29 questions, sorted by mean instability across judges. Each question appears as a paired horizontal bar (one per judge), making it easier to compare where the two judges agree on stability and where they diverge. The shaded band marks the 40--50\% ``coin-flip danger zone,'' where repeated evaluation becomes highly unstable.}
     \label{fig:flip_rates}
 \end{figure}
@@ -214,7 +214,7 @@ This position bias has direct implications for evaluation fairness: a model whos
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.85\linewidth]{figures/fig4_score_vs_flip.pdf}
+    \includegraphics[width=0.85\linewidth]{fig4_score_vs_flip.pdf}
     \caption{Pairwise--pointwise gap. Many questions with very small mean pointwise score gaps still exhibit substantial pairwise flip rates. The shaded lower-left region highlights the paradox zone: little scalar evidence of a quality difference, yet unstable forced-choice verdicts.}
     \label{fig:paradox}
 \end{figure}
@@ -227,7 +227,7 @@ Figure~\ref{fig:paradox} illustrates this pairwise--pointwise gap. Questions wit
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=\linewidth]{figures/fig3_category_flips.pdf}
+    \includegraphics[width=\linewidth]{fig3_category_flips.pdf}
     \caption{Mean flip rate by task category, shown as point estimates with standard-error bars and ordered from highest to lowest mean instability. Category effects are visually large even though judge-specific significance tests are underpowered.}
     \label{fig:categories}
 \end{figure}
@@ -271,7 +271,7 @@ Within-judge stability is only one part of evaluation reliability. Even if each 
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=\linewidth]{figures/fig5_heatmap.pdf}
+    \includegraphics[width=\linewidth]{fig5_heatmap.pdf}
     \caption{Judge $\times$ category heatmap of mean flip rates. Compared with per-question bar charts, this view emphasizes a cleaner structural point: task type explains substantially more variation in instability than judge identity does in this dataset.}
     \label{fig:heatmap}
 \end{figure}
@@ -286,7 +286,7 @@ One obvious mitigation for stochastic inconsistency is to reduce decoding random
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=\linewidth]{figures/fig6_temp_ablation.pdf}
+    \includegraphics[width=\linewidth]{fig6_temp_ablation.pdf}
     \caption{Temperature ablation as a slopegraph from $t=1.0$ to $t=0$. Most questions move downward, showing that deterministic decoding reduces instability, but several retain non-zero flip rates even at $t=0$, especially for GPT-4.1-mini.}
     \label{fig:temp}
 \end{figure}
@@ -315,7 +315,7 @@ Prompt wording is often treated as a minor implementation detail in LLM-as-a-Jud
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=\linewidth]{figures/fig7_prompt_sensitivity.pdf}
+    \includegraphics[width=\linewidth]{fig7_prompt_sensitivity.pdf}
     \caption{Prompt sensitivity shown as prompt-to-prompt slopegraphs on a 10-question subset. Changes in wording affect both flip rate and, for several items, the majority verdict itself, reinforcing that prompt template is a real experimental variable rather than a cosmetic choice.}
     \label{fig:prompt}
 \end{figure}
@@ -345,7 +345,7 @@ As shown in Figure~\ref{fig:prompt} and Table~\ref{tab:prompt}, changing the pro
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=\linewidth]{figures/fig8_reliability_curve.pdf}
+    \includegraphics[width=\linewidth]{fig8_reliability_curve.pdf}
     \caption{Reliability as a function of repeated voting. Left: probability that a $K$-trial majority vote matches the 50-trial reference verdict, shown overall and for easy vs.\ hard questions. Right: per-item minimum trial counts needed to reach 90\% fidelity, showing that high-flip items are disproportionately costly to stabilize.}
     \label{fig:reliability}
 \end{figure}

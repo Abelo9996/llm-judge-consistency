@@ -1,0 +1,78 @@
+\begin{thebibliography}{}
+
+\bibitem[Amidei et~al., 2019]{amidei2019agreement}
+Amidei, J., Piwek, P., and Willis, A. (2019).
+\newblock The use of rating and {Likert} scales in natural language generation
+  human evaluation tasks: A review and some recommendations.
+\newblock {\em Proceedings of the 12th International Conference on Natural
+  Language Generation}, pages 397--402.
+
+\bibitem[Bai et~al., 2022]{bai2022constitutional}
+Bai, Y., Kadavath, S., Kundu, S., Askell, A., Kernion, J., Jones, A., Chen, A.,
+  Goldie, A., Mirhoseini, A., McKinnon, C., et~al. (2022).
+\newblock Constitutional {AI}: Harmlessness from {AI} feedback.
+\newblock {\em arXiv preprint arXiv:2212.08073}.
+
+\bibitem[Chiang et~al., 2024]{chiang2024chatbot}
+Chiang, W.-L., Zheng, L., Sheng, Y., Angelopoulos, A.~N., Li, T., Li, D.,
+  Zhang, H., Zhu, B., Jordan, M., Gonzalez, J.~E., et~al. (2024).
+\newblock Chatbot arena: An open platform for evaluating {LLMs} by human
+  preference.
+\newblock {\em arXiv preprint arXiv:2403.04132}.
+
+\bibitem[Clark et~al., 2021]{clark2021all}
+Clark, E., August, T., Serber, S., Haduong, N., Gururangan, S., and Smith,
+  N.~A. (2021).
+\newblock All that's `human' is not gold: Evaluating human evaluation of
+  generated text.
+\newblock {\em arXiv preprint arXiv:2107.00061}.
+
+\bibitem[Dubois et~al., 2024]{dubois2024alpacafarm}
+Dubois, Y., Li, X., Taori, R., Zhang, T., Gulrajani, I., Ba, J., Guestrin, C.,
+  Liang, P., and Hashimoto, T.~B. (2024).
+\newblock {AlpacaFarm}: A simulation framework for methods that learn from
+  human feedback.
+\newblock {\em Advances in Neural Information Processing Systems}, 36.
+
+\bibitem[Liu et~al., 2023]{liu2023geval}
+Liu, Y., Iter, D., Xu, Y., Wang, S., Xu, R., and Zhu, C. (2023).
+\newblock {G-Eval}: {NLG} evaluation using {GPT-4} with better human alignment.
+\newblock {\em arXiv preprint arXiv:2303.16634}.
+
+\bibitem[Ouyang et~al., 2022]{ouyang2022training}
+Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C., Mishkin, P., Zhang,
+  C., Agarwal, S., Slama, K., Ray, A., et~al. (2022).
+\newblock Training language models to follow instructions with human feedback.
+\newblock {\em Advances in Neural Information Processing Systems}, 35.
+
+\bibitem[Shankar et~al., 2024]{shankar2024validates}
+Shankar, S., Zamfirescu-Pereira, J., Hartmann, B., Parameswaran, A.~G., and
+  Arawjo, I. (2024).
+\newblock Who validates the validators? aligning {LLM}-assisted evaluation of
+  {LLM} outputs with human preferences.
+\newblock {\em arXiv preprint arXiv:2404.12272}.
+
+\bibitem[Stureborg et~al., 2024]{stureborg2024large}
+Stureborg, R., Alikaniotis, D., and Suhara, Y. (2024).
+\newblock Large language models are inconsistent and biased evaluators.
+\newblock {\em arXiv preprint arXiv:2405.01724}.
+
+\bibitem[Wang et~al., 2023]{wang2023large}
+Wang, P., Li, L., Chen, L., Cai, Z., Zhu, D., Lin, B., Cao, Y., Liu, Q., Liu,
+  T., and Sui, Z. (2023).
+\newblock Large language models are not fair evaluators.
+\newblock {\em arXiv preprint arXiv:2305.17926}.
+
+\bibitem[Zheng et~al., 2023]{zheng2023judging}
+Zheng, L., Chiang, W.-L., Sheng, Y., Zhuang, S., Wu, Z., Zhuang, Y., Lin, Z.,
+  Li, Z., Li, D., Xing, E.~P., et~al. (2023).
+\newblock Judging {LLM}-as-a-judge with {MT-Bench} and chatbot arena.
+\newblock In {\em Advances in Neural Information Processing Systems},
+  volume~36.
+
+\bibitem[Zhu et~al., 2023]{zhu2023judgelm}
+Zhu, L., Wang, X., and Wang, X. (2023).
+\newblock {JudgeLM}: Fine-tuned large language models are scalable judges.
+\newblock {\em arXiv preprint arXiv:2310.17631}.
+
+\end{thebibliography}
